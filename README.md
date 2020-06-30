@@ -29,7 +29,7 @@ RN3: Preciso de muitas questões para poder gerar programas de estudos diversos.
 ## Inicializando o projeto:
 
 ```
-docker-compose up
+cp configs/php-fpm/.env.example simulados-web/.env && docker-compose up
 ```
 
 ## Portas da aplicação:
