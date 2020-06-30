@@ -125,7 +125,7 @@
 <script>
 import { getArvoreAssuntos, getBancas, getOrgaos } from "../services/http";
 import { required, email, max } from "vee-validate/dist/rules";
-import QuestaoCard from "./QuestaoCard";
+import QuestaoCard from "./QuestaoCard.vue";
 import {
   extend,
   ValidationObserver,
