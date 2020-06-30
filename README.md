@@ -52,3 +52,9 @@ ou
     * simulados-web: API
     * frontend: aplicação front-end
     * db: volume para armazenar o banco de dados localmente
+
+## Diagrama ER
+![img](https://drive.google.com/file/d/1RLyFJ-EBgPhxfqIVVQ_bBu5LB0vFpSBV/view)
+
+## Tela
+![](https://drive.google.com/file/d/1uqPwUfz6sB9JGqi8B4UvzL0lDxMy16zl/view)
