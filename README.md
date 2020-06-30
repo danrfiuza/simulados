@@ -55,3 +55,6 @@ ou
 
 ## Diagrama ER
 ![img](https://raw.githubusercontent.com/danrfiuza/simulados/master/documentos/diagram.png)
+
+## Funcionamento da aplicação
+![img](https://raw.githubusercontent.com/danrfiuza/simulados/master/documentos/simulados.gif)
