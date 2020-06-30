@@ -54,7 +54,7 @@ ou
     * db: volume para armazenar o banco de dados localmente
 
 ## Diagrama ER
-![img](https://drive.google.com/file/d/1RLyFJ-EBgPhxfqIVVQ_bBu5LB0vFpSBV/view)
+![img](https://lh4.googleusercontent.com/fgSPqW_1CuJpLVt1lS1vv3EHyeuZyMciWh11e3saK56Wq_00xOdWIkKgkoiT3vCpq6Cb596OV1gPSalKy2ZN=w1280-h734)
 
 ## Tela
-![](https://drive.google.com/file/d/1uqPwUfz6sB9JGqi8B4UvzL0lDxMy16zl/view)
+![gif](https://lh3.googleusercontent.com/_cLb_0FLXupZYKxbgxAPGGp7xJXGy2PypaMcZrv95ckXPzzYtQ7d7bR0IGwfMfsBcuaNwQMHtC6pJWQYr2zo=w1280-h734-rw)
