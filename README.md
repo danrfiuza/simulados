@@ -2,7 +2,7 @@
 
 ## Requisitos:
 * Linguagem backend: Preferência por PHP;
-* Framawork frontend: Vuejs;
+* Framework frontend: Vuejs;
 * Banco de dados: MySQL.
 
 1 - Montar uma árvore de assuntos
